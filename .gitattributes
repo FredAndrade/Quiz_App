@@ -1,4 +1,4 @@
 *.Makefile.d linguist-generated=false
 *.d linguist-vendored
-*.c++ linguist-vendored=false
-*.cmake linguist-vendored=false
+*.c++ linguist-generated=false
+*.cmake linguist-generated=false
